@@ -4,5 +4,5 @@ kind: Kustomization
 resources:
 # - canary/canary-service.yaml
 # - canary/canary-ingress.yaml
-- canary/canary-preview-service.yaml
+- canary/preview-guestbook-ui.yaml
 # - canary/canary-preview-ingress.yaml
